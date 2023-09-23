@@ -1,10 +1,10 @@
 <h3 align="left">Olá!! Sou Laércio Costa</h3>
 
-###
+
 
 <p align="left">Estou estudando Angula, Java, Spring Framework</p>
 
-###
+
 
 <hr>
 <div align="left">
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+
 <hr>
 <div align="left">
   <a href="https://www.linkedin.com/in/laercio-costa-dev/" target="_blank">
@@ -38,8 +38,8 @@
   </a>
 </div>
 <hr>
-###
+
 
 <img src="https://raw.githubusercontent.com/LaercioCosta/LaercioCosta/output/snake.svg" alt="Snake animation" />
 
-###
+
